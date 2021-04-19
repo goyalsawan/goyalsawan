@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goyalsawan
-- 👀 I’m interested in to owing your computer.
+- 👀 I’m interested in owing your computer.
 - 🌱 I’m currently learning android exploits.
 - 💞️ I’m looking to collaborate on vulnerability and exploit research.
 - 📫 How to reach me sawangoyal895@gmail.com
